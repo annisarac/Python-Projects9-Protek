@@ -1,0 +1,2 @@
+M01|Agus|Pemograman python|2021-01-01|2021-01-03
+M02|Budi|Pemograman Pacsal|2021-01-05|2021-01-12
